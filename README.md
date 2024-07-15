@@ -1,4 +1,5 @@
 # differential-drive-robot
 
 # Demo video
-[![Click to Watch!](https://youtu.be/FwafE7gGxxY/0.jpg)](https://youtu.be/FwafE7gGxxY)]
+
+[![Watch the video](https://img.youtube.com/vi/FwafE7gGxxY/0.jpg)](https://www.youtube.com/watch?v=FwafE7gGxxY)
