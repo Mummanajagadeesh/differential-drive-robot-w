@@ -1,9 +1,5 @@
 """odometer_calculation controller."""
 
-# You may need to import some classes of the controller module. Ex:
-#  from controller import Robot, Motor, DistanceSensor
-from controller import Robot
-import math
 
 def run_robot(robot):
     # get the time step of the current world.
